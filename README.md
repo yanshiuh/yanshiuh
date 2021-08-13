@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yanshiuh
-- 👀 I’m interested in learning Java and Python, and of course other languages
-- 🌱 I’m currently learning Java, Python and HMS 
+- 👀 I’m interested in learning Java, Python, Web Dev and Mobile Dev
+- 🌱 I’m currently learning Java, Python and Web Dev
 - 💞️ I’m looking to collaborate on anyone that willing to exchange knowledge with each other about different programming language.
 - 📫 How to reach me - yanshiuh12372@gmail.com
 
